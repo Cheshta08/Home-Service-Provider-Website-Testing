@@ -103,7 +103,7 @@ This document provides a comprehensive overview of the test automation processes
 The test automation project for the Home Services Provider website has successfully validated critical functionalities such as forget password, signup, login, view and edit profile, and update password. The automated tests ensure that the website operates smoothly and provides a seamless user experience. The generated test reports offer valuable insights into the testing process, helping maintain high-quality standards for the application.
 
 ### Screenshots and Additional Documentation
-*(Placeholder for screenshots and any additional documentation related to the test automation project)*
+
 XSLT report
 ![Screenshot 2024-07-04 022729](https://github.com/Cheshta08/Home-Service-Provider-Website-Testing/assets/111150320/c0adac04-69f9-417c-9cc0-2624ece53456)
 
