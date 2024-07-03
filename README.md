@@ -1,5 +1,4 @@
 # Home Services Provider Website
-## UCS662 Test Automation Project Report
 
 ### Introduction
 This document provides a comprehensive overview of the test automation processes for the Home Services Provider website. It includes testing strategies, test cases, and the generation of various test reports. The functionalities tested include forget password, signup, login, view and edit profile, and update password.
